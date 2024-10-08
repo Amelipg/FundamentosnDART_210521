@@ -24,5 +24,5 @@ void main() {
   Estatus de Vida: $isAlive
   Habilidades: $abilities
   Imágenes: $sprites
-  """);
+  """); 
 }
