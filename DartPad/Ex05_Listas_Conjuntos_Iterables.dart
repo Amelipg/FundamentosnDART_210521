@@ -32,7 +32,7 @@
   print("Confirmamos el tipo de dato para NUMEROS AL REVES que es: ${numerosAlreves.runtimeType}");
   
   print("De igual manera podemos tranformar una LISTA en ITERABLES y vicerversa");
-  print("Convertimos el ITERABLE a LISTA usando .toList(): ${numerosAlreves.toLIst()} y verificamos su tipo de dato ${numerosAlreves.toList().runtimeType} ");
+  print("Convertimos el ITERABLE a LISTA usando .toList(): ${numerosAlreves.toList()} y verificamos su tipo de dato ${numerosAlreves.toList().runtimeType} ");
 
   // Conjunto de datos SET
   // Un SET es una estructura de datos utilizada por DART, que simplifica los elementos eliminando los duplicados
